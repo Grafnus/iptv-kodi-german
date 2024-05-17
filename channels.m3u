@@ -29,6 +29,9 @@ http://telerising.tools.zhort.de/api/zde/live/einsextra.m3u8
 http://telerising.tools.zhort.de/api/zde/live/weltderwunder.m3u8
 #EXTINF:0001 tvg-id="CNN.nws" tvg-chno="114" group-title="International" tvg-logo="https://images.zattic.com/logos/75c2107cbdb11872b382/black/210x120.png", CNN International
 http://telerising.tools.zhort.de/api/zde/live/cnn-international.m3u8
-http://telerising.tools.zhort.de/api/zde/live/uatv_ua.m3u8
-#EXTINF:0001 tvg-id="espreso_tv_ua" tvg-chno="133" group-title="Ukrainisch" tvg-logo="https://images.zattic.com/logos/b5158e570431e7d173cd/black/210x120.png", Espreso TV
-http://telerising.tools.zhort.de/api/zde/live/espreso_tv_ua.m3u8
+#EXTINF:-1,ProSieben HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/106983
+#EXTINF:-1,RTL Zwei
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/191696
+#EXTINF:-1,RTL HD
+http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/13942
